@@ -32,8 +32,8 @@
 		2CD30FDE2CFCC0FC0075161A = {
 			isa = PBXGroup;
 			children = (
-				2CD30FE92CFCC0FC0075161A /* MapApp */,
 				2CD30FE82CFCC0FC0075161A /* Products */,
+				2CD30FE92CFCC0FC0075161A /* MapApp */,
 			);
 			sourceTree = "<group>";
 		};
