@@ -95,6 +95,7 @@ extension LocationsView {
                             removal: .move(edge: .leading)))
                 }
             }
+            .padding(.bottom)
         }
     }
 }
