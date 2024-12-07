@@ -12,16 +12,16 @@ class LocationsDataService {
     
     static let locations: [Location] = [
         Location(
-            name: "Colosseum",
-            cityName: "Rome",
-            coordinates: CLLocationCoordinate2D(latitude: 41.8902, longitude: 12.4922),
-            description: "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.",
+            name: "Clock tower",
+            cityName: "Bitola",
+            coordinates: CLLocationCoordinate2D(latitude: 41.030890, longitude: 21.333872),
+            description: "The Clock Tower in Bitola, Macedonia, is a historic landmark built during the Ottoman era. Standing tall in the heart of the city, it symbolizes Bitola’s rich cultural heritage and serves as a focal point in the bustling Shirok Sokak area. Its timeless architecture and charm make it a popular attraction for locals and visitors alike.",
             imageNames: [
-                "rome-colosseum-1",
-                "rome-colosseum-2",
-                "rome-colosseum-3",
+                "bitola-tower-1",
+                "bitola-tower-2",
+                "bitola-tower-3",
             ],
-            link: "https://en.wikipedia.org/wiki/Colosseum"),
+            link: "https://en.wikipedia.org/wiki/Clock_Tower_(Bitola)"),
         Location(
             name: "Pantheon",
             cityName: "Rome",
